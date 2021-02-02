@@ -1,3 +1,17 @@
+# Color-Changer
+
+#### This is an simple project using React.js
+#### Here you can change the background color using the input 
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
